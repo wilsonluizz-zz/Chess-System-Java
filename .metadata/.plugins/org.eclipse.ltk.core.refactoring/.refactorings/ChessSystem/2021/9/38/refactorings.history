@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;chess.chessPiece&apos; to &apos;ChessPiece&apos;&#x0D;&#x0A;- Original project: &apos;ChessSystem&apos;&#x0D;&#x0A;- Original element: &apos;chess.chessPiece&apos;&#x0D;&#x0A;- Renamed element: &apos;chess.ChessPiece&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;chessPiece&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;chess{chessPiece.java[chessPiece" matchStrategy="1" name="ChessPiece" qualified="false" references="true" similarDeclarations="false" stamp="1631918955443" textual="false" version="1.0"/>
+</session>
